@@ -1,5 +1,5 @@
 # Python 3 code to find sum
-# of elements in given array
+# of elements in given array grg
  
  
 def _sum(arr):
