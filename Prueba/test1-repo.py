@@ -1,5 +1,3 @@
-#Subir a repositorio
-
 # Python 3 code to find sum
 # of elements in given array
  
